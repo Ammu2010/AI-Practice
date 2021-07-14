@@ -1,0 +1,33 @@
+body {
+    background-size: 100%;
+}
+.footer {
+    width: 100%;
+    background-color: blueviolet;
+    padding: 5px;
+    bottom: 0;
+    position: fixed;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 15px;
+}
+.heading {
+    background-color: rgb(100, 182, 237);
+    font-family: initial;
+    font-size: 18px;
+    color: black;
+    width: 100%;
+}
+.note {
+    background-color: rgb(100, 182, 237);
+    font-family: initial;
+        font-size: 18px;
+    color: black;
+    width: 100%;
+}
+canvas {
+    background-color: rgb(47, 182, 223);
+    border-width: 3px;
+    border-style: ridge;
+    border-color: blueviolet;
+}
